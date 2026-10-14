@@ -1,6 +1,6 @@
 #Femboy Client
 
-A pink, cosy client-side Fabric mod for Minecraft 1.21.11: a themed menu, a draggable HUD, visual tweaks, FPS boosters, cosmetics and a pile of quality-of-life tools. It runs only on your side, so nothing is installed on a server.
+A pink, cosy client-side Fabric mod for Minecraft 1.21.11: a themed menu, a draggable HUD, visual tweaks, FPS boosters, cosmetics, and a pile of quality-of-life tools. It runs only on your side, so nothing is installed on a server.
 
 Install: download FemboyClient.jar from the latest release and double-click it. It sets the client up in Prism Launcher or the official launcher and starts it. Or put Fabric API and the jar in your mods folder (Fabric Loader 0.17.0 or newer, Java 21).
 
