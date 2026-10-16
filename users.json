@@ -1,0 +1,13 @@
+{
+  "version": 8,
+  "users": [
+    { "uuid": "dedc1365-132f-4645-95ce-29eb84250141", "name": "ElricOfTheStars", "admin": true },
+    { "uuid": "c64f35dc-6793-412a-b17b-3f2ef61a24a3", "name": "Crxzyjade", "admin": true },
+    { "uuid": "a3be4acf-630b-478c-9eb4-ab8795ad91eb", "name": "YnKirk", "admin": true },
+    { "uuid": "8273ce3d-1fff-496b-9db9-ad46d24b2987", "name": "Tinofx", "admin": true },
+    { "uuid": "fad9b525-1987-44aa-8754-f8cd1fb199fa", "name": "catboynitro", "admin": false },
+    { "uuid": "e49f2c7d-10e5-4cfb-b38e-f9928b695fed", "name": "V0RZ3L", "admin": true },
+    { "uuid": "5a0a0233-cae7-4516-ad03-276ef94663f4", "name": "CauaThehim1", "admin": true },
+    { "uuid": "2390df2e-1e3a-4c13-9b4d-2a3dd3db40e6", "name": "irrelevantt", "admin": true }
+  ]
+}
