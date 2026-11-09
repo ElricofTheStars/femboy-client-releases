@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "users": [
     { "uuid": "dedc1365-132f-4645-95ce-29eb84250141", "name": "ElricOfTheStars", "admin": true },
     { "uuid": "c64f35dc-6793-412a-b17b-3f2ef61a24a3", "name": "Crxzyjade", "admin": true },
@@ -8,6 +8,7 @@
     { "uuid": "fad9b525-1987-44aa-8754-f8cd1fb199fa", "name": "catboynitro", "admin": false },
     { "uuid": "e49f2c7d-10e5-4cfb-b38e-f9928b695fed", "name": "V0RZ3L", "admin": true },
     { "uuid": "5a0a0233-cae7-4516-ad03-276ef94663f4", "name": "CauaThehim1", "admin": true },
-    { "uuid": "2390df2e-1e3a-4c13-9b4d-2a3dd3db40e6", "name": "irrelevantt", "admin": true }
+    { "uuid": "2390df2e-1e3a-4c13-9b4d-2a3dd3db40e6", "name": "irrelevantt", "admin": true },
+    { "uuid": "2531ad6c-4ac3-4204-be6c-0ca170ec0f63", "name": "rescola", "admin": false }
   ]
 }
